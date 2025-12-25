@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rami Boumekhita!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Autonomous+Systems+Engineer;Control+and+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Automation+and+Control+Engineer;Autonomous+Systems+and+AI+Enthusiast)
 
 I am passionate about **Autonomous Systems, Control Engineering, and AI**, with a strong academic background in **automatic and mobile systems**.
 
